@@ -39,6 +39,12 @@ Every Wednesday 04:00
   ├── Haiku extracts 3-5 core facts per paper
   └── Facts → knowledge_triples → next report is smarter
 
+Every Tuesday 03:30
+  Developer Tools Radar
+  ├── GitHub Trending + dev.to scanned weekly
+  ├── Static relevance filter (playwright, ai, health, automation, ...)
+  └── Haiku summary → admin UI
+
 Every Monday 07:00
   Weekly digest → my inbox
   ├── What did the system learn this week?
